@@ -1,0 +1,10 @@
+<!-- fragment_page2.xml -->
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/ooo_lala_ooo_lala"
+    android:gravity="center"
+    android:textColor="@color/dark_green"
+    android:background="@color/light_green"
+    android:textSize="40sp"
+    android:textStyle="bold"/>

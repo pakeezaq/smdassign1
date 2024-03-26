@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="emailid">emailID</string>
+    <string name="password">password</string>
+    <string name="retype_password">Retype Password</string>
+    <string name="signup">SIGNUP</string>
+    <string name="exit">EXIT</string>
+    <string name="back">BACK</string>
+    <string name="gui_demo_7614">GUI DEMO 7614</string>
+    <string name="already_have_an_account_login">Already have an account?LOGIN</string>
+    <string name="dil_mai_mere_dard_e_disco">Dil mai mere dard-e-disco</string>
+    <string name="ooo_lala_ooo_lala">Ooo Lala Ooo Lala</string>
+    <string name="icon1">icon1</string>
+    <string name="icon2">icon2</string>
+
+</resources>
